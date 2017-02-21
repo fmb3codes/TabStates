@@ -1,0 +1,19 @@
+{
+  "name": "TabStates",
+  "description": "Save/load a group of tabs to access later",
+  "version": "1.0",
+  "permissions": ["tabs",
+                  "storage",
+                  "unlimitedStorage",
+                  "<all_urls>",
+                  "chrome://favicon/",
+                  "chrome://favicon/*"],
+  "browser_action": {
+    "default_title": "View TabState Manager",
+    "default_popup": "popup.html"
+  },
+  "manifest_version": 2,
+  "icons": { "128": "/images/TSFavIcon128.png",
+              "48":"/images/TSFavIcon48.png",
+              "16":"/images/TSFavIcon16.png" }
+}

@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+  <head>
+    <title>TabState Manager</title>
+    <link href="/css/popup.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div id= "intro" style = "color:white;">TabStates</div>
+    <div id="save" style= "color:white;">
+      TabState name:<input style = "display: inline-block;width:150px;" type = "text" id = "NewTabState">
+      <input style = "display: inline-block;line-height:normal!important;" type = "submit" value = "Save TabState" id = "SaveTabsButton">
+    </div>
+  </body>
+  <div id="container" style="height:100%;width:100%;">
+  <iframe id="tabsframe" src="tabstates.html" style="overflow-y:scroll;overflow-x:scroll;height:100%;width:100%;"></iframe>
+  </div>
+  <div id="editTabState">
+  <span style="display:inline-block;margin:10px;"> Enter new TabState name: </span>
+  <input id="editTabStateTextBox" type="text" style="display:block;">
+  <input style = "display: inline-block;line-height:normal!important;" type = "submit" value = "Save" id = "saveTabName">
+  <input style = "display: inline-block;line-height:normal!important;" type = "submit" value = "Cancel" id = "cancelWindow">
+  </div>
+  <div id="focusEditWindow"></div>
+  <script src="/js/popup.js"></script>
+</html>

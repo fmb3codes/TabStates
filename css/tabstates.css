@@ -1,0 +1,93 @@
+body {
+  font-family: "Segoe UI", "Lucida Grande", Tahoma, sans-serif;
+  font-size: 100%;
+  min-width: 300px;
+}
+.open {
+  float: left;
+  clear: left;
+  background: url("/images/FillTab.png");
+  margin-bottom: 5px;
+  outline-style: none;
+  cursor: pointer;
+}
+.open::selection {
+  background:transparent;
+}
+.open::before{
+  background: white url("/images/FrontTab.png") no-repeat;
+  content: " ";
+  display: inline-block;
+  width: 15px;
+  height: 20px;
+}
+.open::after{
+  background: white url("/images/BackTab.png") no-repeat;
+  content: " ";
+  display: inline-block;
+  width: 16px;
+  height: 20px;
+}
+.tabs {
+  display: none;
+  clear: left;
+
+}
+a {
+  vertical-align: top;
+}
+li {
+  list-style: none;
+  font-size: 85%;
+}
+.icon {
+  height: 16px;
+  width: 16px;
+  margin-right: 4px;
+  margin-top: 2px;
+}
+.buttons {
+  display: none;
+  margin-left: 8px;
+}
+.buttons::selection {
+  background: transparent;
+}
+.openBtnNew {
+  width: 16px;
+  height: 16px;
+  cursor: pointer;
+}
+.openBtnNew::selection {
+  background: transparent;
+}
+.openBtn {
+  width: 16px;
+  height: 16px;
+  margin-left: 4px;
+  cursor: pointer;
+}
+.openBtn::selection {
+  background: transparent;
+}
+.rmvBtn {
+  width: 16px;
+  height: 16px;
+  margin-left: 4px;
+  cursor: pointer;
+}
+.rmvBtn::selection {
+  background: transparent;
+}
+.edtBtn {
+  width: 16px;
+  height: 16px;
+  margin-left: 4px;
+  cursor: pointer;
+}
+.edtBtn::selection {
+  background: transparent;
+}
+.test {
+  color:blue;
+}

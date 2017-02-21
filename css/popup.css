@@ -1,0 +1,115 @@
+body {
+  font-family: "Segoe UI", "Lucida Grande", Tahoma, sans-serif;
+  font-size: 100%;
+  width: 600px;
+  height: 100%;
+  margin: 8px;
+  background-color: rgb(253, 95, 95);
+}
+span {
+  display: block;
+}
+.tabs {
+  display: none;
+}
+li {
+  list-style: none;
+}
+#intro {
+  font-size: 36px;
+  text-align: center;
+  border-bottom: 2px solid;
+  border-color: white;
+  margin-bottom: 4px;
+}
+#save {
+  font-weight: 500;
+}
+#SaveTabsButton {
+  color: #000000;
+  border: 2px #ffffff solid;
+  background-color: white;
+  padding: 2px;
+}
+#SaveTabsButton:hover {
+  color: #fff;
+  background-color: #a7a7a7;
+  border-color: #a7a7a7;
+}
+#SaveTabsButton:focus
+{
+  outline: 0;
+}
+#saveTabName {
+  color: #000000;
+  border: 2px #ffffff solid;
+  background-color: white;
+  border-color: #fd5f5f;
+  padding: 2px;
+  margin-right: 20px;
+}
+#saveTabName:hover {
+  color: #fff;
+  background-color: #a7a7a7;
+}
+#saveTabName:focus
+{
+  outline: 0;
+}
+#cancelWindow {
+  color: #000000;
+  border: 2px #ffffff solid;
+  background-color: white;
+  border-color: #fd5f5f;
+  padding: 2px;
+}
+#cancelWindow:hover {
+  color: #fff;
+  background-color: #a7a7a7;
+}
+#cancelWindow:focus
+{
+  outline: 0;
+}
+#NewTabState
+{
+  margin-left: 5px;
+  border-radius: 4px;
+  height: 20px;
+}
+#editTabState {
+height: 125px;
+width: 275px;
+position: absolute;
+z-index: 3;
+display: none;
+background: #f5fcfe;
+border: 5px solid rgb(253, 95, 95);;
+border-radius: 5px;
+top: 175px;
+left: 160px;
+text-align: center;
+}
+#editTabStateTextBox {
+  margin-left: 50px;
+  margin-bottom: 12px;
+}
+#focusEditWindow {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: rgba(0,0,0,0.65);
+  z-index: 2;
+  display: none;
+}
+#tabsframe
+{
+  border: 2px solid;
+  border-color: white;
+  border-radius: 15px;
+  margin-top:5px;
+  background-color: white;
+  min-height: 450px;
+}
