@@ -16,7 +16,8 @@ Or... provide local installation instructions
 ## Features:
 
 - Save the group of tabs opened in the current window under a given "TabState name" 
-- Load a saved group of tabs in the current window
-- Load a saved group of tabs in a new window
-- Change the name of a saved group of tabs
-- Remove a previously saved group of tabs
+- Load a saved TabState in the current window
+- Load a saved TabState in a new window
+- Open tabs individually that are contained within a saved TabState
+- Change the name of a saved TabState
+- Remove a previously saved TabState
