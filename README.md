@@ -29,4 +29,5 @@ Screenshots of buttons and also mention of certain limitations (36 character lim
 
 - Ability to individually remove tabs that are contained within a saved TabState
 - Ability to add the group of tabs opened in the current window to a pre-existing TabState
+- Ability to save the group of tabs opened in the current window by pressing enter
 - Add export/import functionality to use the extension across different systems (may also add ability to do this without import/export if possible)
