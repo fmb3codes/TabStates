@@ -12,6 +12,9 @@ Install the extension by visiting this (non-existent) Chrome Web Store link: **[
 
 Or... provide local installation instructions
 
+## How to Use
+
+Screenshots of buttons and also mention of certain limitations (36 character limit for TabState names)
 
 ## Features:
 
@@ -21,3 +24,9 @@ Or... provide local installation instructions
 - Open tabs individually that are contained within a saved TabState
 - Change the name of a saved TabState
 - Remove a previously saved TabState
+
+## Planned Features:
+
+- Ability to individually remove tabs that are contained within a saved TabState
+- Ability to add the group of tabs opened in the current window to a pre-existing TabState
+- Add export/import functionality to use the extension across different systems (may also add ability to do this without import/export if possible)
