@@ -12,10 +12,37 @@ Install the extension by visiting this (non-existent) Chrome Web Store link: **[
 
 ### Local Installation
 
-Download the TabStates repository:
+Download the TabStates repository and extract the .zip file to a chosen directory:
+
 ![](http://i.imgur.com/J6XPGH9.png)
 
-Navigate to the chrome settings page:
+Navigate to the Chrome settings page by clicking on the three vertical dots in the top right of the browser window:
+
+![](http://i.imgur.com/uE2SWLU.png)
+
+Click on the "Extensions" tab to get to the extensions page:
+
+![](http://i.imgur.com/DPxkmzu.png)
+
+Tick the "Developer mode" box to allow the extension to be loaded:
+
+![](http://i.imgur.com/h0yGO8N.png)
+
+Click on "Load unpacked extensions" and navigate to the folder that the .zip file extracted to:
+
+![](http://i.imgur.com/6T2BpyQ.png)
+
+Now that TabStates is loaded, make sure the "Enabled" box is checked:
+
+![](http://i.imgur.com/ecvdwG3.png)
+
+Finally, access the TabStates manager by clicking on the icon in the top right of the browser window!
+
+![](http://i.imgur.com/vxLMQmf.png)
+
+![](http://i.imgur.com/k0f0Dwm.png)
+
+
 
 
 ## How to Use
