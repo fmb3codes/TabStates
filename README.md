@@ -8,7 +8,9 @@ TabStates is a small Google Chrome extension which allows users to to save/load 
 
 ## Installation
 
-Install the extension by visiting this (non-existent) Chrome Web Store link: **[]()**
+### Chrome Web Store Installation
+
+Coming soon!
 
 ### Local Installation
 
@@ -34,7 +36,6 @@ Click on "Load unpacked extensions" and navigate to the folder that the .zip fil
 
 ![](http://i.imgur.com/k0f0Dwm.png)
 
-
 Now that TabStates is loaded, make sure the "Enabled" box is checked:
 
 ![](http://i.imgur.com/ecvdwG3.png)
@@ -44,12 +45,19 @@ Finally, access the TabStates manager by clicking on the icon in the top right o
 ![](http://i.imgur.com/npKLMkG.png)
 
 
-
-
-
 ## How to Use
 
-Screenshots of buttons and also mention of certain limitations (36 character limit for TabState names)
+Use the textbox to enter a "nickname" for the group of tabs opened in the current window to be saved
+
+Click on the tab group after it has been saved to view its contents
+
+Hover over the tab group to see the different options available for managing it
+
+Currently, the buttons in sequential order respectively can:
+  - Open the TabState in the current window
+  - Open the TabState in a new window
+  - Rename the TabState
+  - Remove the TabState
 
 ## Features:
 
