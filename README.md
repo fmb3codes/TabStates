@@ -47,11 +47,11 @@ Finally, access the TabStates manager by clicking on the icon in the top right o
 
 ## How to Use
 
-Use the textbox to enter a "nickname" for the group of tabs opened in the current window to be saved
+Use the textbox to enter a "nickname" for the group of tabs opened in the current window to be saved as a "TabState"
 
-Click on the tab group after it has been saved to view its contents
+Click on the TabState after it has been saved to view its contents
 
-Hover over the tab group to see the different options available for managing it
+Hover over the TabState to see the different options available for managing it
 
 Currently, the buttons in sequential order respectively can:
   - Open the TabState in the current window
@@ -74,4 +74,4 @@ Currently, the buttons in sequential order respectively can:
 - Ability to add the group of tabs opened in the current window to a pre-existing TabState
 - Ability to save the group of tabs opened in the current window by pressing enter
 - Add export/import functionality to use the extension across different systems (may also add ability to do this without import/export if possible)
-- Add ability to pin tab groups
+- Add ability to pin saved TabStates
