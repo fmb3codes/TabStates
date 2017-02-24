@@ -22,15 +22,18 @@ Navigate to the Chrome settings page by clicking on the three vertical dots in t
 
 Click on the "Extensions" tab to get to the extensions page:
 
-![](http://i.imgur.com/DPxkmzu.png)
+![](http://i.imgur.com/2ROWSZ1.png)
 
 Tick the "Developer mode" box to allow the extension to be loaded:
 
 ![](http://i.imgur.com/h0yGO8N.png)
 
-Click on "Load unpacked extensions" and navigate to the folder that the .zip file extracted to:
+Click on "Load unpacked extensions" and navigate to the folder that the .zip file extracted to before pressing OK:
 
 ![](http://i.imgur.com/6T2BpyQ.png)
+
+![](http://i.imgur.com/k0f0Dwm.png)
+
 
 Now that TabStates is loaded, make sure the "Enabled" box is checked:
 
@@ -38,9 +41,8 @@ Now that TabStates is loaded, make sure the "Enabled" box is checked:
 
 Finally, access the TabStates manager by clicking on the icon in the top right of the browser window!
 
-![](http://i.imgur.com/vxLMQmf.png)
+![](http://i.imgur.com/npKLMkG.png)
 
-![](http://i.imgur.com/k0f0Dwm.png)
 
 
 
